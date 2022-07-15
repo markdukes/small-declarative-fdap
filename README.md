@@ -24,4 +24,4 @@ All trace data has already been created so there is no need to recreate these fi
 
 (In some instances they can take several hours.)
 
-The text files of all traces can be found in the "data" directory.
+The text files of all traces are included, simply locate the .txt file that corresponds to the .sobj file.
